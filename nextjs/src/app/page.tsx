@@ -113,7 +113,7 @@ export default function Home() {
                   {isPending ? (
                     <>
                       <span className="h-4 w-4 animate-spin rounded-full border-2 border-[var(--primary-foreground)] border-t-transparent" />
-                      Preparing
+                      wait bosdk...
                     </>
                   ) : (
                     "Generate Link"
